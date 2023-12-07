@@ -19,5 +19,5 @@ frontend th3gr00t-tech-frontend
 
 backend th3gr00t-tech-backend
 	balance roundrobin
-	server 377755-web-01 35.175.130.141:80 check
-	server 377755-web-02 34.204.61.83:80 check
+	server 377755-web-01 54.237.77.74:80 check
+	server 377755-web-02 54.237.24.127:80 check
